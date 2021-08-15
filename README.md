@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+I'm a Data Analyst/Scientist knowledgeable in Python and SQL. Transforming data in good decisions!
+
+- 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/gabriel-antunes-/)
+- ⚡ Fun fact: Every thursday I become a Goliath Fighter!
+
 <!--
 **GCAntunes/GCAntunes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
