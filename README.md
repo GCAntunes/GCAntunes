@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm a Data Analyst/Scientist knowledgeable in Python and SQL. Transforming data in great insights!
+I'm a Data Engineer knowledgeable in Python and SQL. Transforming data in great insights!
 
 - 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/gabriel-antunes-/)
 - ⚡ Fun fact: Every thursday I become a Goliath Fighter!
